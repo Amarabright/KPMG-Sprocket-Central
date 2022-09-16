@@ -20,7 +20,7 @@ when i asked the Associate Director for some ideas to enhance the analysis, she 
 > "The importance of optimizing the quality of customer datasets cannot be underestimated" 
 
 ## Task 1
-Data Cleaning and Integrity 
+**Data Cleaning and Integrity** 
 
 So i decided to start the preliminary data exploration  using **Microsoft Excel**  to identify ways of improving the quality of Sprocket Central Pty Ltd’s data. Working on the various sheets, i had the follwoing:
 
@@ -53,19 +53,24 @@ The essence of thorough cleaning and evaluation of the data sets (reformatting, 
 A clean data will enable us carry out analysis that will make smarter business decisions based on facts, not instinct. Will also enable us win new customers and reduce business risk.
 
 
-## Data Exploration; Model Devlopement and Intepretation
+##Task 2
+**Data Exploration; Model Devlopement and Intepretation**
 After having a clean dataset. There was need to explore the data by analysing their existing customer dataset to determine customer trends and behaviour thereby boosting business.
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, there was need to explore and recommend 1000 new customers who would be targeted to drive the most value for the organisation. 
 
 In building this recommendation I understood the data distributions, did feature engineering, transformed the data, modelled,  interpretated the results and did reporting. This was done in Excel and results were reported in a apowerpoint as i needed to make presentation to the Associate Director. This file has been uploaded in this repo and cana lso be found here: https://docs.google.com/presentation/d/1Xf0UZx622F24QHzsmi8wvDIEzdIaR_20/edit?usp=sharing&ouid=104179283946869942722&rtpof=true&sd=true
 
-## Data Insights, Visualization and Dashboard
+
+##Task 3
+**Data Insights, Visualization and Dashboard**
 From the findings, we were able to uderstand:
 * The trends in the underlying data
 * The customer segment that has the highest customer value
-* What to propose as marketing and growth strategy for Sprocket Central Pty Ltd.
-•	What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+* The list of the top 1000 customers using RFM Customer Segmentation method.
+
+
+The Dashboard was done using Excel still, and the list of customrs was also added underneath the dashboard. This has been uploaded on this repository.
 
 
 
