@@ -58,13 +58,13 @@ A clean data will enable us carry out analysis that will make smarter business d
 
 ## Task 2
 
-**Data Exploration; Model Devlopement and Intepretation**
+**Data Exploration; Model Developement and Intepretation**
 
 After having a clean dataset. There was need to explore the data by analysing their existing customer dataset to determine customer trends and behaviour thereby boosting business.
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, there was need to explore and recommend 1000 new customers who would be targeted to drive the most value for the organisation. 
 
-In building this recommendation I understood the data distributions, did feature engineering, transformed the data, modelled,  interpretated the results and did reporting. This was done in Excel and results were reported in a apowerpoint as i needed to make presentation to the Associate Director. This file has been uploaded in this repo and cana lso be found here: https://docs.google.com/presentation/d/1Xf0UZx622F24QHzsmi8wvDIEzdIaR_20/edit?usp=sharing&ouid=104179283946869942722&rtpof=true&sd=true
+In building this recommendation I understood the data distributions, did feature engineering, transformed the data, modelled,  interpretated the results and did reporting. This was done in Excel and results were reported in a apowerpoint as i needed to make presentation to the Associate Director. This file has been uploaded in this repo and can also be found here: https://docs.google.com/presentation/d/1Xf0UZx622F24QHzsmi8wvDIEzdIaR_20/edit?usp=sharing&ouid=104179283946869942722&rtpof=true&sd=true
 
 
 ## Task 3
